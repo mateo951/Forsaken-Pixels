@@ -1,0 +1,4 @@
+repository "City Builder - 16bit - v2@Andean_Studio@cloud"
+  path "/"
+    smartbranch "/main/dev" 
+     
