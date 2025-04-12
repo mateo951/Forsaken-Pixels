@@ -1,68 +1,39 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ServiceLocator
+public static class ServiceLocator
 {
-    public class ServiceLocator
+    private static Dictionary<Type, object> _services = new Dictionary<Type, object>();
+
+    public static void Register<T>(T service)
     {
-        /// Private constructor 
-        private ServiceLocator()
-        {
-        }
-        
-        /// Current registered _services 
-        private readonly Dictionary<string, IGameService> _services = new Dictionary<string, IGameService>();
+        // Syntax -> scores["Alice"] = 100;
+        _services[typeof(T)] = service;
+        Debug.Log("Registered service " + typeof(T).Name);
+    }
+    
+    public static void UnRegister<T>()
+    {
+        Debug.Log("Unregistered service " + typeof(T).Name);
+        _services.Remove(typeof(T));
+    }
 
-        /// Currently active service locator instance 
-        public static ServiceLocator Current { get; private set; }
-
-        /// Initializes the service locator with a new instance.
-        public static void Initialize()
+    public static bool TryGetService<T>(out T service, bool lazyInitialize) where T : new()
+    {
+        if(_services.TryGetValue(typeof(T), out object value))
         {
-            Current = new ServiceLocator();
+            service = (T)value;
+            return true;
         }
-
-        /// Gets the service instance of the given type.
-        /// <typeparam name="T">The type of the service to lookup.</typeparam>
-        /// <returns>The service instance.</returns>
-        public T Get<T>() where T : IGameService
+        // 🔥 Lazy initialization: Automatically create and register if missing and lazyInitialize is true
+        if (lazyInitialize)
         {
-            string key = typeof(T).Name;
-            if (!_services.ContainsKey(key))
-            {
-                Debug.LogError($"{key} not registered with {GetType().Name}");
-            }
-            return (T)_services[key];
+            service = new T();
+            Register(service);
+            return true;
         }
-
-        /// Registers the service with the current service locator.
-        /// <typeparam name="T">Service type.</typeparam>
-        /// <param name="service">Service instance.</param>
-        public void Register<T>(T service) where T : IGameService
-        {
-            string key = typeof(T).Name;
-            Debug.Log(key);
-            if (_services.ContainsKey(key))
-            {
-                Debug.LogError(
-                    $"Attempted to register service of type {key} which is already registered with the {GetType().Name}.");
-                return;
-            }
-            _services.Add(key, service);
-        }
-
-        /// Unregisters the service from the current service locator.
-        /// <typeparam name="T">Service type.</typeparam>
-        public void Unregister<T>() where T : IGameService
-        {
-            string key = typeof(T).Name;
-            if (!_services.ContainsKey(key))
-            {
-                Debug.LogError(
-                    $"Attempted to unregister service of type {key} which is not registered with the {GetType().Name}.");
-                return;
-            }
-            _services.Remove(key);
-        }
+        service = default(T);
+        return false;
     }
 }
