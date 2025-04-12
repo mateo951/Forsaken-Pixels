@@ -27,22 +27,9 @@ This repository reflects my process of revisiting old code, rebuilding systems, 
 
 ---
 
-## Project Structure & Namespace Conventions
-
-| Folder | Namespace Example |
-|--------|------------------|
-| Scripts/Core/ServiceLocator/ | `Core.ServiceLocator` |
-| Scripts/Systems/Resources/ | `Systems.Resources` |
-| Scripts/UI/Managers/ | `UI.Managers` |
-| Scripts/UI/Components/ | `UI.Components` |
-
-More details in: `/Docs/Code Architecture & Namespace Conventions.md`
-
----
-
 ## Technologies
 
-- Unity 2022+
+- Unity 6
 - C#
 - ScriptableObjects
 - Event-driven architecture
