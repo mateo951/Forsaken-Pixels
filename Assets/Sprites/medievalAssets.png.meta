@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: a7d3076fec811ca49b1fd3a55ee75988
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3731304217296754705
+    second: medievalAssets_0
+  - first:
+      213: 7153273246936298830
+    second: medievalAssets_1
+  - first:
+      213: -6896795681982610771
+    second: medievalAssets_2
+  - first:
+      213: 5154056821267869245
+    second: medievalAssets_3
+  - first:
+      213: 3659424568622679348
+    second: medievalAssets_4
+  - first:
+      213: -113416339939697696
+    second: medievalAssets_5
+  - first:
+      213: 8467659470532813148
+    second: medievalAssets_6
+  - first:
+      213: -3036684377362577296
+    second: medievalAssets_7
+  - first:
+      213: 4880386090102344681
+    second: medievalAssets_8
+  - first:
+      213: 4243448180063532569
+    second: medievalAssets_9
+  - first:
+      213: 4626167176477535062
+    second: medievalAssets_10
+  - first:
+      213: -7861521667339454695
+    second: medievalAssets_11
+  - first:
+      213: 1102990913605898474
+    second: medievalAssets_12
+  - first:
+      213: 4424155830951839559
+    second: medievalAssets_13
+  - first:
+      213: 8368366396993185764
+    second: medievalAssets_14
+  - first:
+      213: 5862016219570128295
+    second: medievalAssets_15
+  - first:
+      213: -3734370575108284795
+    second: medievalAssets_16
+  - first:
+      213: -6327164516880703690
+    second: medievalAssets_17
+  - first:
+      213: -7349779352114616092
+    second: medievalAssets_18
+  - first:
+      213: -5362889825716209799
+    second: medievalAssets_19
+  - first:
+      213: 1013216640726007891
+    second: medievalAssets_20
+  - first:
+      213: -5469276688476747570
+    second: medievalAssets_21
+  - first:
+      213: -209581062442511155
+    second: medievalAssets_22
+  - first:
+      213: -325530528082386547
+    second: medievalAssets_23
+  - first:
+      213: 4812566675105585615
+    second: medievalAssets_24
+  - first:
+      213: -4354267167992761255
+    second: medievalAssets_25
+  - first:
+      213: -3262033324594909751
+    second: medievalAssets_26
+  - first:
+      213: 7526247260236963063
+    second: medievalAssets_27
+  - first:
+      213: 3452697666877917783
+    second: medievalAssets_28
+  - first:
+      213: -1392367488084072043
+    second: medievalAssets_29
+  - first:
+      213: -2969248378718284931
+    second: medievalAssets_30
+  - first:
+      213: -6075563679131794451
+    second: medievalAssets_31
+  - first:
+      213: -7464325975086665448
+    second: medievalAssets_32
+  - first:
+      213: 2512755035738975225
+    second: medievalAssets_33
+  - first:
+      213: -7465971410243663672
+    second: medievalAssets_34
+  - first:
+      213: 7459500678279368958
+    second: medievalAssets_35
+  - first:
+      213: -6365196008958632169
+    second: medievalAssets_36
+  - first:
+      213: 5002423035936333982
+    second: medievalAssets_37
+  - first:
+      213: 1273544809355967944
+    second: medievalAssets_38
+  - first:
+      213: -5352859339982151313
+    second: medievalAssets_39
+  - first:
+      213: -6435160361839001571
+    second: medievalAssets_40
+  - first:
+      213: 2208155827086378493
+    second: medievalAssets_41
+  - first:
+      213: 2224950764593469963
+    second: medievalAssets_42
+  - first:
+      213: -788615978079515287
+    second: medievalAssets_43
+  - first:
+      213: -3294740230197934635
+    second: medievalAssets_44
+  - first:
+      213: -8343976689602997261
+    second: medievalAssets_45
+  - first:
+      213: -348636559249342286
+    second: medievalAssets_46
+  - first:
+      213: -8229714395936609918
+    second: medievalAssets_47
+  - first:
+      213: -8863794085601110755
+    second: medievalAssets_48
+  - first:
+      213: -2132600590094536755
+    second: medievalAssets_49
+  - first:
+      213: 4125907497677468119
+    second: medievalAssets_50
+  - first:
+      213: -8196467392608255802
+    second: medievalAssets_51
+  - first:
+      213: -4868283126377666344
+    second: medievalAssets_52
+  - first:
+      213: 6045212490492513107
+    second: medievalAssets_53
+  - first:
+      213: 5338338037980129075
+    second: medievalAssets_54
+  - first:
+      213: -2338632351304940551
+    second: medievalAssets_55
+  - first:
+      213: 1105394148840926920
+    second: medievalAssets_56
+  - first:
+      213: 4693489124306207589
+    second: medievalAssets_57
+  - first:
+      213: 4647727495425536626
+    second: medievalAssets_58
+  - first:
+      213: -4544123745457785742
+    second: medievalAssets_59
+  - first:
+      213: -3825096426478636587
+    second: medievalAssets_60
+  - first:
+      213: 4426527668951570816
+    second: medievalAssets_61
+  - first:
+      213: -3481743440756984814
+    second: medievalAssets_62
+  - first:
+      213: -1630234580091869772
+    second: medievalAssets_63
+  - first:
+      213: 8538451182769721222
+    second: medievalAssets_64
+  - first:
+      213: 8399030223747371806
+    second: medievalAssets_65
+  - first:
+      213: 1414421270110277008
+    second: medievalAssets_66
+  - first:
+      213: 5155015160925618459
+    second: medievalAssets_67
+  - first:
+      213: 1037918089180934030
+    second: medievalAssets_68
+  - first:
+      213: 2008714407755900699
+    second: medievalAssets_69
+  - first:
+      213: 7613200083556568800
+    second: medievalAssets_70
+  - first:
+      213: -6635103066760650491
+    second: medievalAssets_71
+  - first:
+      213: -9002853027616131776
+    second: medievalAssets_72
+  - first:
+      213: 181491646160182090
+    second: medievalAssets_73
+  - first:
+      213: -7532687618054692563
+    second: medievalAssets_74
+  - first:
+      213: -8418346397909482294
+    second: medievalAssets_75
+  - first:
+      213: 7425199644041228811
+    second: medievalAssets_76
+  - first:
+      213: 8396967503138007355
+    second: medievalAssets_77
+  - first:
+      213: -4134738366875097920
+    second: medievalAssets_78
+  - first:
+      213: -6455446859067762640
+    second: medievalAssets_79
+  - first:
+      213: -8803061052276411856
+    second: medievalAssets_80
+  - first:
+      213: -4956425210032803595
+    second: medievalAssets_81
+  - first:
+      213: -1218247776012566714
+    second: medievalAssets_82
+  - first:
+      213: 565615688303842940
+    second: medievalAssets_83
+  - first:
+      213: 5576037452195602653
+    second: medievalAssets_84
+  - first:
+      213: -156369043671816805
+    second: medievalAssets_85
+  - first:
+      213: -4057908825001903528
+    second: medievalAssets_86
+  - first:
+      213: -829394025282472705
+    second: medievalAssets_87
+  - first:
+      213: -5747336292108414689
+    second: medievalAssets_88
+  - first:
+      213: -7250104431444347172
+    second: medievalAssets_89
+  - first:
+      213: -3799379389447222785
+    second: medievalAssets_90
+  - first:
+      213: 8946523808868927240
+    second: medievalAssets_91
+  - first:
+      213: -1510064956846084955
+    second: medievalAssets_92
+  - first:
+      213: 7842080050104363018
+    second: medievalAssets_93
+  - first:
+      213: 7763307934591782418
+    second: medievalAssets_94
+  - first:
+      213: -2248448907978278706
+    second: medievalAssets_95
+  - first:
+      213: 7257705217940838156
+    second: medievalAssets_96
+  - first:
+      213: -5562295308501651717
+    second: medievalAssets_97
+  - first:
+      213: -7693838164211909637
+    second: medievalAssets_98
+  - first:
+      213: -3073828451351572472
+    second: medievalAssets_99
+  - first:
+      213: -2221870479155481248
+    second: medievalAssets_100
+  - first:
+      213: -9138077605424406017
+    second: medievalAssets_101
+  - first:
+      213: 8636005525758309415
+    second: medievalAssets_102
+  - first:
+      213: 523595649552832068
+    second: medievalAssets_103
+  - first:
+      213: -3683749969252908479
+    second: medievalAssets_104
+  - first:
+      213: -718255474863688352
+    second: medievalAssets_105
+  - first:
+      213: -5648013403776870492
+    second: medievalAssets_106
+  - first:
+      213: 3334165542865158946
+    second: medievalAssets_107
+  - first:
+      213: 5407360600692143839
+    second: medievalAssets_108
+  - first:
+      213: 1365473471986083672
+    second: medievalAssets_109
+  - first:
+      213: 1428183755769592061
+    second: medievalAssets_110
+  - first:
+      213: 8430821540719951633
+    second: medievalAssets_111
+  - first:
+      213: -255420579998709970
+    second: medievalAssets_112
+  - first:
+      213: 7658001560682327193
+    second: medievalAssets_113
+  - first:
+      213: -3141325344737139646
+    second: medievalAssets_114
+  - first:
+      213: 2266403658240346859
+    second: medievalAssets_115
+  - first:
+      213: 1554867627673550671
+    second: medievalAssets_116
+  - first:
+      213: -7678241650611760081
+    second: medievalAssets_117
+  - first:
+      213: 954209133552260209
+    second: medievalAssets_118
+  - first:
+      213: -2074698078715205549
+    second: medievalAssets_119
+  - first:
+      213: 402235186964505683
+    second: medievalAssets_120
+  - first:
+      213: -1677187687631526662
+    second: medievalAssets_121
+  - first:
+      213: 7730930795109486964
+    second: medievalAssets_122
+  - first:
+      213: -3497544875239134944
+    second: medievalAssets_123
+  - first:
+      213: 5416908193174075910
+    second: medievalAssets_124
+  - first:
+      213: -2063519767129477587
+    second: medievalAssets_125
+  - first:
+      213: 7815830080276530531
+    second: medievalAssets_126
+  - first:
+      213: 8317188991175683214
+    second: medievalAssets_127
+  - first:
+      213: 5394354301387148634
+    second: medievalAssets_128
+  - first:
+      213: -8449932690187699401
+    second: medievalAssets_129
+  - first:
+      213: -8167364627870398521
+    second: medievalAssets_130
+  - first:
+      213: -4873116239915309036
+    second: medievalAssets_131
+  - first:
+      213: 5456959467679602011
+    second: medievalAssets_132
+  - first:
+      213: -5685459886634405123
+    second: medievalAssets_133
+  - first:
+      213: -965425413736544192
+    second: medievalAssets_134
+  - first:
+      213: 9083192736499035616
+    second: medievalAssets_135
+  - first:
+      213: -282906714035184930
+    second: medievalAssets_136
+  - first:
+      213: -254857847818321018
+    second: medievalAssets_137
+  - first:
+      213: 2511105919857201011
+    second: medievalAssets_138
+  - first:
+      213: 5058902828612679372
+    second: medievalAssets_139
+  - first:
+      213: -5360618462463290007
+    second: medievalAssets_140
+  - first:
+      213: -5463649398413703688
+    second: medievalAssets_141
+  - first:
+      213: 5178648127469333267
+    second: medievalAssets_142
+  - first:
+      213: 8742805828951499228
+    second: medievalAssets_143
+  - first:
+      213: 7931696481307850593
+    second: medievalAssets_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medievalAssets_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 729
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72c1b659eb73cc0800000000000000
+      internalID: -3731304217296754705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 146
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4571f05e18854360800000000000000
+      internalID: 7153273246936298830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 676
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da28af63ed8a940a0800000000000000
+      internalID: -6896795681982610771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 676
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea9df1f53e68740800000000000000
+      internalID: 5154056821267869245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 678
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358717b143e8c230800000000000000
+      internalID: 3659424568622679348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 678
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb5b2290701d6ef0800000000000000
+      internalID: -113416339939697696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 678
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51a414cc6b238570800000000000000
+      internalID: 8467659470532813148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 660
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0784358d5a78bd5d0800000000000000
+      internalID: -3036684377362577296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 643
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebce43aa4d9ab340800000000000000
+      internalID: 4880386090102344681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 645
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916f67313a1c3ea30800000000000000
+      internalID: 4243448180063532569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 629
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65be3895982733040800000000000000
+      internalID: 4626167176477535062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 628
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917f13812b346e290800000000000000
+      internalID: -7861521667339454695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 634
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae096fb546c9e4f00800000000000000
+      internalID: 1102990913605898474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 628
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7478bdeb942c56d30800000000000000
+      internalID: 4424155830951839559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 628
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7281b86e8622470800000000000000
+      internalID: 8368366396993185764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 628
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54e0381b01a5150800000000000000
+      internalID: 5862016219570128295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 634
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58edffa5fb9dc2cc0800000000000000
+      internalID: -3734370575108284795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 628
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f9ed705656138a0800000000000000
+      internalID: -6327164516880703690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 628
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e825bbbe96500a90800000000000000
+      internalID: -7349779352114616092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 628
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f0a80e103395b0800000000000000
+      internalID: -5362889825716209799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 629
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500dfe9a2baf0e00800000000000000
+      internalID: 1013216640726007891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 612
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8c40d44d93914b0800000000000000
+      internalID: -5469276688476747570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 613
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41775522b671df0800000000000000
+      internalID: -209581062442511155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 613
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81aa1e95bb7b7bf0800000000000000
+      internalID: -325530528082386547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 613
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc91d8794eba9c240800000000000000
+      internalID: 4812566675105585615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 613
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95435a2a4198293c0800000000000000
+      internalID: -4354267167992761255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 619
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda80a69fdeab2d0800000000000000
+      internalID: -3262033324594909751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 611
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc5e26e10a927860800000000000000
+      internalID: 7526247260236963063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 563
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a041f1c327aef20800000000000000
+      internalID: 3452697666877917783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 531
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59922fb85215dace0800000000000000
+      internalID: -1392367488084072043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d739790d45c1bc6d0800000000000000
+      internalID: -2969248378718284931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3851706034faba0800000000000000
+      internalID: -6075563679131794451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 516
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811fc37c213696890800000000000000
+      internalID: -7464325975086665448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 471
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbabc054691fd220800000000000000
+      internalID: 2512755035738975225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 483
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8443d0f8a836890800000000000000
+      internalID: -7465971410243663672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7450808, y: -0.2095871}
+      border: {x: 0, y: 1, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef090a24858758760800000000000000
+      internalID: 7459500678279368958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 483
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f594044f74aa7a0800000000000000
+      internalID: -6365196008958632169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 403
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9067394f3d2c6540800000000000000
+      internalID: 5002423035936333982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 395
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd743fa14a8ca110800000000000000
+      internalID: 1273544809355967944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 403
+        width: 15
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616bbb7ac2d6b5b0800000000000000
+      internalID: -5352859339982151313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 396
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1089efeeb7b1b6a0800000000000000
+      internalID: -6435160361839001571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 387
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df541328602f4ae10800000000000000
+      internalID: 2208155827086378493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 380
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad35e9eec90ee10800000000000000
+      internalID: 2224950764593469963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 387
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d8f5a32f54e05f0800000000000000
+      internalID: -788615978079515287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 387
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d50dd7873bb642d0800000000000000
+      internalID: -3294740230197934635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 380
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d21ab86d343c80800000000000000
+      internalID: -8343976689602997261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b08a3285e4692bf0800000000000000
+      internalID: -348636559249342286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a74b1c5e2acd80800000000000000
+      internalID: -8229714395936609918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_48
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159985dd3a7df480800000000000000
+      internalID: -8863794085601110755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 366
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf60a3ff0b7762e0800000000000000
+      internalID: -2132600590094536755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 371
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1bf27520b224930800000000000000
+      internalID: 4125907497677468119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 366
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0438a455c404e80800000000000000
+      internalID: -8196467392608255802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 371
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82b323a42607cb0800000000000000
+      internalID: -4868283126377666344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 365
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b8f8f2bb8e4e350800000000000000
+      internalID: 6045212490492513107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 364
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e2cc6926951a40800000000000000
+      internalID: 5338338037980129075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 275
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f38b3064428b8fd0800000000000000
+      internalID: -2338632351304940551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 355
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce657a2f16275f00800000000000000
+      internalID: 1105394148840926920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 355
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634e6bcd7f922140800000000000000
+      internalID: 4693489124306207589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 355
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b7a9488b008040800000000000000
+      internalID: 4647727495425536626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 227
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2743290878700f0c0800000000000000
+      internalID: -4544123745457785742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 234
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1ff1cf0178aeac0800000000000000
+      internalID: -3825096426478636587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 261
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089db40567f2e6d30800000000000000
+      internalID: 4426527668951570816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 245
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21432a6a9cc5eafc0800000000000000
+      internalID: -3481743440756984814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 228
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e019694e3069e0800000000000000
+      internalID: -1630234580091869772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 187
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fc001bc1cae7670800000000000000
+      internalID: 8538451182769721222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 178
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135b301d795f8470800000000000000
+      internalID: 8399030223747371806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 13
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0ea7b6a801a310800000000000000
+      internalID: 1414421270110277008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_67
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 190
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1189b6f9fa4a8740800000000000000
+      internalID: 5155015160925618459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 175
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe493c00d676e00800000000000000
+      internalID: 1037918089180934030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 177
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ef797c1360eb10800000000000000
+      internalID: 2008714407755900699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_70
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee0d58b32587a960800000000000000
+      internalID: 7613200083556568800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 175
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50160a14ae06be3a0800000000000000
+      internalID: -6635103066760650491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 177
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045f3ebded07f0380800000000000000
+      internalID: -9002853027616131776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 175
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b141bc0b9c48200800000000000000
+      internalID: 181491646160182090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_74
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21edd17584867790800000000000000
+      internalID: -7532687618054692563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac48a6cad860c2b80800000000000000
+      internalID: -8418346397909482294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_76
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 161
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b023f616cbb9b0760800000000000000
+      internalID: 7425199644041228811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b392a0f7475088470800000000000000
+      internalID: 8396967503138007355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c42b33bc557e96c0800000000000000
+      internalID: -4134738366875097920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038dadab845a966a0800000000000000
+      internalID: -6455446859067762640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 142
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032fcf21d9e35d580800000000000000
+      internalID: -8803061052276411856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 126
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f03430288d373bb0800000000000000
+      internalID: -4956425210032803595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f7c5e2a1ae71fe0800000000000000
+      internalID: -1218247776012566714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_83
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 126
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c761db4c87879d700800000000000000
+      internalID: 565615688303842940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a4680580126d40800000000000000
+      internalID: 5576037452195602653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 126
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95e21aee2774ddf0800000000000000
+      internalID: -156369043671816805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab6d26c696fa7c0800000000000000
+      internalID: -4057908825001903528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 126
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f43047866d74f0800000000000000
+      internalID: -829394025282472705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 126
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11da20d71c5d30b0800000000000000
+      internalID: -5747336292108414689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 142
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6364bae64726b90800000000000000
+      internalID: -7250104431444347172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_90
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 126
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9ce054394e54bc0800000000000000
+      internalID: -3799379389447222785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 142
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8070532e000782c70800000000000000
+      internalID: 8946523808868927240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_92
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 126
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac6c632ceb2b0be0800000000000000
+      internalID: -1510064956846084955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 142
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08e5a6a14aa4dc60800000000000000
+      internalID: 7842080050104363018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_94
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 110
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e805b4f6fccbb60800000000000000
+      internalID: 7763307934591782418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_95
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 110
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f65881a7ebc0e0800000000000000
+      internalID: -2248448907978278706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_96
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 110
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07dcd7517c88b460800000000000000
+      internalID: 7257705217940838156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeefe023e1cec2b0800000000000000
+      internalID: -5562295308501651717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 103
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb3ece04fef93590800000000000000
+      internalID: -7693838164211909637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_99
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 110
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80053b03f419755d0800000000000000
+      internalID: -3073828451351572472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_100
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065b20932945a21e0800000000000000
+      internalID: -2221870479155481248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1e9be55d60f2180800000000000000
+      internalID: -9138077605424406017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7247229254149d770800000000000000
+      internalID: 8636005525758309415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465989187f244700800000000000000
+      internalID: 523595649552832068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 94
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14203599be0b0ecc0800000000000000
+      internalID: -3683749969252908479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06535ca737e3806f0800000000000000
+      internalID: -718255474863688352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_106
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a71c35dbb93e91b0800000000000000
+      internalID: -5648013403776870492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_107
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22343d465e5554e20800000000000000
+      internalID: 3334165542865158946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6b2b021ddca0b40800000000000000
+      internalID: 5407360600692143839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85723ff53e223f210800000000000000
+      internalID: 1365473471986083672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df831ac1f8de1d310800000000000000
+      internalID: 1428183755769592061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_111
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ff25bd58b400570800000000000000
+      internalID: 8430821540719951633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_112
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e274ad4f550947cf0800000000000000
+      internalID: -255420579998709970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_113
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c6bd978dfa64a60800000000000000
+      internalID: 7658001560682327193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 62
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e20f0e35c764d0800000000000000
+      internalID: -3141325344737139646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_115
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beacf078e12e37f10800000000000000
+      internalID: 2266403658240346859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_116
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7c3c8edff39510800000000000000
+      internalID: 1554867627673550671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_117
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245dab56e7617590800000000000000
+      internalID: -7678241650611760081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_118
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174d0deb6280e3d00800000000000000
+      internalID: 954209133552260209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_119
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358aef1f6113533e0800000000000000
+      internalID: -2074698078715205549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ae2b75c6059500800000000000000
+      internalID: 402235186964505683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_121
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af460192fae69b8e0800000000000000
+      internalID: -1677187687631526662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_122
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47111a11998c94b60800000000000000
+      internalID: 7730930795109486964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_123
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029226d7779367fc0800000000000000
+      internalID: -3497544875239134944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_124
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3b0b3d49bc2b40800000000000000
+      internalID: 5416908193174075910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_125
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e204d64b7ec53e0800000000000000
+      internalID: -2063519767129477587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_126
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36502b74c08677c60800000000000000
+      internalID: 7815830080276530531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_127
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce0d432579c6370800000000000000
+      internalID: 8317188991175683214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_128
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d08c618a89cda40800000000000000
+      internalID: 5394354301387148634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_129
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bb669ecfecbba80800000000000000
+      internalID: -8449932690187699401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_130
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c1bcb421b7ae80800000000000000
+      internalID: -8167364627870398521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_131
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41829a249963f5cb0800000000000000
+      internalID: -4873116239915309036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_132
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 23
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b555fb049b30bbb40800000000000000
+      internalID: 5456959467679602011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 30
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27c602b503911b0800000000000000
+      internalID: -5685459886634405123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048491583be1a92f0800000000000000
+      internalID: -965425413736544192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_135
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edee654babfd0e70800000000000000
+      internalID: 9083192736499035616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_136
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1c5da7d9e21cf0800000000000000
+      internalID: -282906714035184930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_137
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68381904320967cf0800000000000000
+      internalID: -254857847818321018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_138
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f087a978d39d220800000000000000
+      internalID: 2511105919857201011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_139
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67da4c155d43640800000000000000
+      internalID: 5058902828612679372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_140
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965997009e14b95b0800000000000000
+      internalID: -5360618462463290007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_141
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5464ed1d73d24b0800000000000000
+      internalID: -5463649398413703688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_142
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b2d86c8014ed740800000000000000
+      internalID: 5178648127469333267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_143
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd16ede749fa45970800000000000000
+      internalID: 8742805828951499228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medievalAssets_144
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 14
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f1920deb031e60800000000000000
+      internalID: 7931696481307850593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b39cf2e7f8dbb944d8c98b25b9931d5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medievalAssets_0: -3731304217296754705
+      medievalAssets_1: 7153273246936298830
+      medievalAssets_10: 4626167176477535062
+      medievalAssets_100: -2221870479155481248
+      medievalAssets_101: -9138077605424406017
+      medievalAssets_102: 8636005525758309415
+      medievalAssets_103: 523595649552832068
+      medievalAssets_104: -3683749969252908479
+      medievalAssets_105: -718255474863688352
+      medievalAssets_106: -5648013403776870492
+      medievalAssets_107: 3334165542865158946
+      medievalAssets_108: 5407360600692143839
+      medievalAssets_109: 1365473471986083672
+      medievalAssets_11: -7861521667339454695
+      medievalAssets_110: 1428183755769592061
+      medievalAssets_111: 8430821540719951633
+      medievalAssets_112: -255420579998709970
+      medievalAssets_113: 7658001560682327193
+      medievalAssets_114: -3141325344737139646
+      medievalAssets_115: 2266403658240346859
+      medievalAssets_116: 1554867627673550671
+      medievalAssets_117: -7678241650611760081
+      medievalAssets_118: 954209133552260209
+      medievalAssets_119: -2074698078715205549
+      medievalAssets_12: 1102990913605898474
+      medievalAssets_120: 402235186964505683
+      medievalAssets_121: -1677187687631526662
+      medievalAssets_122: 7730930795109486964
+      medievalAssets_123: -3497544875239134944
+      medievalAssets_124: 5416908193174075910
+      medievalAssets_125: -2063519767129477587
+      medievalAssets_126: 7815830080276530531
+      medievalAssets_127: 8317188991175683214
+      medievalAssets_128: 5394354301387148634
+      medievalAssets_129: -8449932690187699401
+      medievalAssets_13: 4424155830951839559
+      medievalAssets_130: -8167364627870398521
+      medievalAssets_131: -4873116239915309036
+      medievalAssets_132: 5456959467679602011
+      medievalAssets_133: -5685459886634405123
+      medievalAssets_134: -965425413736544192
+      medievalAssets_135: 9083192736499035616
+      medievalAssets_136: -282906714035184930
+      medievalAssets_137: -254857847818321018
+      medievalAssets_138: 2511105919857201011
+      medievalAssets_139: 5058902828612679372
+      medievalAssets_14: 8368366396993185764
+      medievalAssets_140: -5360618462463290007
+      medievalAssets_141: -5463649398413703688
+      medievalAssets_142: 5178648127469333267
+      medievalAssets_143: 8742805828951499228
+      medievalAssets_144: 7931696481307850593
+      medievalAssets_15: 5862016219570128295
+      medievalAssets_16: -3734370575108284795
+      medievalAssets_17: -6327164516880703690
+      medievalAssets_18: -7349779352114616092
+      medievalAssets_19: -5362889825716209799
+      medievalAssets_2: -6896795681982610771
+      medievalAssets_20: 1013216640726007891
+      medievalAssets_21: -5469276688476747570
+      medievalAssets_22: -209581062442511155
+      medievalAssets_23: -325530528082386547
+      medievalAssets_24: 4812566675105585615
+      medievalAssets_25: -4354267167992761255
+      medievalAssets_26: -3262033324594909751
+      medievalAssets_27: 7526247260236963063
+      medievalAssets_28: 3452697666877917783
+      medievalAssets_29: -1392367488084072043
+      medievalAssets_3: 5154056821267869245
+      medievalAssets_30: -2969248378718284931
+      medievalAssets_31: -6075563679131794451
+      medievalAssets_32: -7464325975086665448
+      medievalAssets_33: 2512755035738975225
+      medievalAssets_34: -7465971410243663672
+      medievalAssets_35: 7459500678279368958
+      medievalAssets_36: -6365196008958632169
+      medievalAssets_37: 5002423035936333982
+      medievalAssets_38: 1273544809355967944
+      medievalAssets_39: -5352859339982151313
+      medievalAssets_4: 3659424568622679348
+      medievalAssets_40: -6435160361839001571
+      medievalAssets_41: 2208155827086378493
+      medievalAssets_42: 2224950764593469963
+      medievalAssets_43: -788615978079515287
+      medievalAssets_44: -3294740230197934635
+      medievalAssets_45: -8343976689602997261
+      medievalAssets_46: -348636559249342286
+      medievalAssets_47: -8229714395936609918
+      medievalAssets_48: -8863794085601110755
+      medievalAssets_49: -2132600590094536755
+      medievalAssets_5: -113416339939697696
+      medievalAssets_50: 4125907497677468119
+      medievalAssets_51: -8196467392608255802
+      medievalAssets_52: -4868283126377666344
+      medievalAssets_53: 6045212490492513107
+      medievalAssets_54: 5338338037980129075
+      medievalAssets_55: -2338632351304940551
+      medievalAssets_56: 1105394148840926920
+      medievalAssets_57: 4693489124306207589
+      medievalAssets_58: 4647727495425536626
+      medievalAssets_59: -4544123745457785742
+      medievalAssets_6: 8467659470532813148
+      medievalAssets_60: -3825096426478636587
+      medievalAssets_61: 4426527668951570816
+      medievalAssets_62: -3481743440756984814
+      medievalAssets_63: -1630234580091869772
+      medievalAssets_64: 8538451182769721222
+      medievalAssets_65: 8399030223747371806
+      medievalAssets_66: 1414421270110277008
+      medievalAssets_67: 5155015160925618459
+      medievalAssets_68: 1037918089180934030
+      medievalAssets_69: 2008714407755900699
+      medievalAssets_7: -3036684377362577296
+      medievalAssets_70: 7613200083556568800
+      medievalAssets_71: -6635103066760650491
+      medievalAssets_72: -9002853027616131776
+      medievalAssets_73: 181491646160182090
+      medievalAssets_74: -7532687618054692563
+      medievalAssets_75: -8418346397909482294
+      medievalAssets_76: 7425199644041228811
+      medievalAssets_77: 8396967503138007355
+      medievalAssets_78: -4134738366875097920
+      medievalAssets_79: -6455446859067762640
+      medievalAssets_8: 4880386090102344681
+      medievalAssets_80: -8803061052276411856
+      medievalAssets_81: -4956425210032803595
+      medievalAssets_82: -1218247776012566714
+      medievalAssets_83: 565615688303842940
+      medievalAssets_84: 5576037452195602653
+      medievalAssets_85: -156369043671816805
+      medievalAssets_86: -4057908825001903528
+      medievalAssets_87: -829394025282472705
+      medievalAssets_88: -5747336292108414689
+      medievalAssets_89: -7250104431444347172
+      medievalAssets_9: 4243448180063532569
+      medievalAssets_90: -3799379389447222785
+      medievalAssets_91: 8946523808868927240
+      medievalAssets_92: -1510064956846084955
+      medievalAssets_93: 7842080050104363018
+      medievalAssets_94: 7763307934591782418
+      medievalAssets_95: -2248448907978278706
+      medievalAssets_96: 7257705217940838156
+      medievalAssets_97: -5562295308501651717
+      medievalAssets_98: -7693838164211909637
+      medievalAssets_99: -3073828451351572472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
